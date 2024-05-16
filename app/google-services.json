@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "43662398892",
+    "project_id": "wjgoprodb",
+    "storage_bucket": "wjgoprodb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43662398892:android:0b39d3502d974e01589609",
+        "android_client_info": {
+          "package_name": "com.example.assg2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRFVZUSz72KFXO4Jzo_s7DlNfR-bsHMuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43662398892:android:80ecb1ddd44c393c589609",
+        "android_client_info": {
+          "package_name": "com.example.gopro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRFVZUSz72KFXO4Jzo_s7DlNfR-bsHMuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

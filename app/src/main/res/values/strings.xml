@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">GoPro</string>
+    <string name="python">Python</string>
+    <string name="java">Java</string>
+    <string name="c">C Language</string>
+    <string name="html">HTML</string>
+    <string name="javascript">JavaScript</string>
+    <string name="sql">SQL</string>
+    <string name="css">CSS</string>
+    <string name="course_list_screen">Course</string>
+    <string name="quiz_lesson_screen">Quiz &amp;&amp; Lesson</string>
+    <string name="quiz_answer_screen">Answer Quiz</string>
+    <string name="back_button">Back</string>
+    <string name="quiz_result">Result</string>
+    <string name="quit">Quit</string>
+    <string name="retry">Retry</string>
+    <string name="save_action">Save</string>
+    <string name="quiz_name">Quiz Name</string>
+    <string name="quiz_entry_screen">New Quiz</string>
+    <string name="quiz_update_screen">Update Quiz</string>
+    <string name="lesson_edit_screen">Edit Lesson</string>
+</resources>
